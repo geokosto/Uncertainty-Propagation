@@ -1,1 +1,1 @@
-"# Uncertainty-Propagation"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/geokosto/Uncertainty-Propagation.gitgit push -u origin main                
+# Uncertainty Propagation
